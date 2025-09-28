@@ -1,29 +1,53 @@
-#KPIs:
-For sales from 01/01/2009 to 22/12/2013/n
-Total Revenue: $2,328.60
-Total Invoices: 412
-Average Invoice Value: $5.65
-Total Tracks Sold: 2240
-----------------------------------------
-#Top 10 Tracks by Revenue:
-The Woman King by Battlestar Galactica - $3.98
-The Fix by Heroes - $3.98
-Walkabout by Lost - $3.98
-Hot Girl by The Office - $3.98
-Gay Witch Hunt by The Office - $3.98
-Phyllis's Wedding by The Office - $3.98
-How to Stop an Exploding Man by Heroes - $3.98
-Pilot by Aquaman - $3.98
-Occupation / Precipice by Battlestar Galactica - $1.99
-Exodus, Pt. 1 by Battlestar Galactica - $1.99
-----------------------------------------
-# Best Year: 2010 with $481.45 in revenue (83 invoices)
-----------------------------------------
+# Sales Performance Analysis (2009-2013)
 
-# Revenue by Region:
-Other Countries: $959.90 (167 invoices)
-USA: $523.06 (91 invoices)
-Canada: $303.96 (56 invoices)
-France: $195.10 (35 invoices)
-Brazil: $190.10 (35 invoices)
-Germany: $156.48 (28 invoices)
+## 📊 Key Performance Indicators
+**Period:** January 1, 2009 - December 22, 2013
+
+| Metric | Value |
+|--------|-------|
+| **Total Revenue** | $2,328.60 |
+| **Total Invoices** | 412 |
+| **Average Invoice Value** | $5.65 |
+| **Total Tracks Sold** | 2,240 |
+
+---
+
+## 🏆 Top 10 Tracks by Revenue
+
+| Track | Artist/Show | Revenue |
+|-------|-------------|---------|
+| 1. The Woman King | Battlestar Galactica | $3.98 |
+| 2. The Fix | Heroes | $3.98 |
+| 3. Walkabout | Lost | $3.98 |
+| 4. Hot Girl | The Office | $3.98 |
+| 5. Gay Witch Hunt | The Office | $3.98 |
+| 6. Phyllis's Wedding | The Office | $3.98 |
+| 7. How to Stop an Exploding Man | Heroes | $3.98 |
+| 8. Pilot | Aquaman | $3.98 |
+| 9. Occupation / Precipice | Battlestar Galactica | $1.99 |
+| 10. Exodus, Pt. 1 | Battlestar Galactica | $1.99 |
+
+---
+
+## 📈 Performance Highlights
+
+### 🎯 Best Performing Year
+**2010** - $481.45 in revenue (83 invoices)
+
+---
+
+## 🌍 Regional Performance
+
+| Region | Revenue | Invoices |
+|--------|---------|----------|
+| **Other Countries** | $959.90 | 167 |
+| **USA** | $523.06 | 91 |
+| **Canada** | $303.96 | 56 |
+| **France** | $195.10 | 35 |
+| **Brazil** | $190.10 | 35 |
+| **Germany** | $156.48 | 28 |
+
+### Regional Insights:
+- **International markets** (excluding listed countries) contribute the highest revenue ($959.90)
+- **USA** is the strongest single-country market
+- **The Office** and **Battlestar Galactica** content shows strong performance across multiple tracks
