@@ -1,11 +1,10 @@
 #KPIs:
-For sales from 01/01/2009 to 22/12/2013
+For sales from 01/01/2009 to 22/12/2013/n
 Total Revenue: $2,328.60
 Total Invoices: 412
 Average Invoice Value: $5.65
 Total Tracks Sold: 2240
 ----------------------------------------
-
 #Top 10 Tracks by Revenue:
 The Woman King by Battlestar Galactica - $3.98
 The Fix by Heroes - $3.98
@@ -18,7 +17,6 @@ Pilot by Aquaman - $3.98
 Occupation / Precipice by Battlestar Galactica - $1.99
 Exodus, Pt. 1 by Battlestar Galactica - $1.99
 ----------------------------------------
-
 # Best Year: 2010 with $481.45 in revenue (83 invoices)
 ----------------------------------------
 
